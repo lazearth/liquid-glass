@@ -1,6 +1,6 @@
 ## Try it on your console
 
-Copy the code from https://github.com/lazearth/liquid-glass/blob/main/liquid-glass.js into any website console.
+Copy the code from the [/liquid-glass.js](https://github.com/lazearth/liquid-glass/blob/main/liquid-glass.js) into any website console.
 
 ## Example
 
