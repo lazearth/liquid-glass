@@ -1,13 +1,8 @@
-Liquid Glass effect using SVG filters (https://github.com/shuding/svg-shaders).
+## Try it on your console
 
-## Demo
-
-https://v0.dev/chat/dynamic-frame-layout-1VUCCecq7Uy.
-
-## Usage
-
-Simply paste https://github.com/shuding/liquid-glass/blob/main/liquid-glass.js into any website console.
+Copy the code from https://github.com/lazearth/liquid-glass/blob/main/liquid-glass.js into any website console.
 
 ## Example
 
-![CleanShot 2025-06-11 at 12 02 53@2x](https://github.com/user-attachments/assets/81e618c3-c157-4962-a076-f5334221ee57)
+<img width="1934" height="1078" alt="image" src="https://github.com/user-attachments/assets/cac150b5-0324-4e01-b189-e1d4960163ec" />
+
